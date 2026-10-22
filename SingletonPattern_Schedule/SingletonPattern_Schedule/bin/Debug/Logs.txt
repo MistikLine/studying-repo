@@ -1,0 +1,71 @@
+Користувач запускає вікно з розкладом.
+Зробили такий запит на вибірку: select 
+	lt.Number as 'Пара',
+    lt.StartTime as 'Початок',
+    lt.EndTime as 'Кінець',
+    s.Name as 'Предмет',
+    t.Name as 'Викладач'
+from lessons l
+join lessontimeperday lt on l.LessonTime = lt.Number
+join subject s on l.Subject = s.ID
+join teacher t on l.Teacher = t.ID
+join weekday w on l.WeekDay = w.ID
+where w.Name = 'Понеділок' and w.Week = 1;
+Користувач вибрав розклад занять такого дня: Понеділок та такого тижня: 1
+Користувач закриває вікно з розкладом.
+Користувач завантажив збережені логи.
+Користувач запускає вікно з розкладом.
+Зробили такий запит на вибірку: select 
+	lt.Number as 'Пара',
+    lt.StartTime as 'Початок',
+    lt.EndTime as 'Кінець',
+    s.Name as 'Предмет',
+    t.Name as 'Викладач'
+from lessons l
+join lessontimeperday lt on l.LessonTime = lt.Number
+join subject s on l.Subject = s.ID
+join teacher t on l.Teacher = t.ID
+join weekday w on l.WeekDay = w.ID
+where w.Name = 'Понеділок' and w.Week = 0;
+Користувач вибрав розклад занять такого дня: Понеділок та такого тижня: 0
+Зробили такий запит на вибірку: select 
+	lt.Number as 'Пара',
+    lt.StartTime as 'Початок',
+    lt.EndTime as 'Кінець',
+    s.Name as 'Предмет',
+    t.Name as 'Викладач'
+from lessons l
+join lessontimeperday lt on l.LessonTime = lt.Number
+join subject s on l.Subject = s.ID
+join teacher t on l.Teacher = t.ID
+join weekday w on l.WeekDay = w.ID
+where w.Name = 'Понеділок' and w.Week = 1;
+Користувач вибрав розклад занять такого дня: Понеділок та такого тижня: 1
+Зробили такий запит на вибірку: select 
+	lt.Number as 'Пара',
+    lt.StartTime as 'Початок',
+    lt.EndTime as 'Кінець',
+    s.Name as 'Предмет',
+    t.Name as 'Викладач'
+from lessons l
+join lessontimeperday lt on l.LessonTime = lt.Number
+join subject s on l.Subject = s.ID
+join teacher t on l.Teacher = t.ID
+join weekday w on l.WeekDay = w.ID
+where w.Name = 'Вівторок' and w.Week = 1;
+Користувач вибрав розклад занять такого дня: Вівторок та такого тижня: 1
+Зробили такий запит на вибірку: select 
+	lt.Number as 'Пара',
+    lt.StartTime as 'Початок',
+    lt.EndTime as 'Кінець',
+    s.Name as 'Предмет',
+    t.Name as 'Викладач'
+from lessons l
+join lessontimeperday lt on l.LessonTime = lt.Number
+join subject s on l.Subject = s.ID
+join teacher t on l.Teacher = t.ID
+join weekday w on l.WeekDay = w.ID
+where w.Name = 'Вівторок' and w.Week = 2;
+Користувач вибрав розклад занять такого дня: Вівторок та такого тижня: 2
+Користувач закриває вікно з розкладом.
+Користувач завантажив збережені логи.
