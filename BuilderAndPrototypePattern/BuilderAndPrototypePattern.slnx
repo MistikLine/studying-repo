@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BuilderAndPrototypeDLL/BuilderAndPrototypeDLL.csproj" Id="92cc6093-efd1-460b-b453-b14c33e26466" />
+  <Project Path="BuilderAndPrototypePattern/BuilderAndPrototypePattern.csproj" Id="f5a69942-2e3d-4867-8436-0714ccbf41f8" />
+</Solution>

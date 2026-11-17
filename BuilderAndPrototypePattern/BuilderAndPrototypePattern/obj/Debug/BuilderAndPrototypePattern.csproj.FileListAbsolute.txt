@@ -1,0 +1,14 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\bin\Debug\BuilderAndPrototypePattern.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\bin\Debug\BuilderAndPrototypePattern.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\bin\Debug\BuilderAndPrototypePattern.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\bin\Debug\BuilderAndPrototypeDLL.dll
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\bin\Debug\BuilderAndPrototypeDLL.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.Form1.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderA.B482F613.Up2Date
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypePattern\obj\Debug\BuilderAndPrototypePattern.SaveReport.resources

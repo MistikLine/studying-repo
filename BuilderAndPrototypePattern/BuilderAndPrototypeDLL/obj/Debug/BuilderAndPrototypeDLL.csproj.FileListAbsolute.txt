@@ -1,0 +1,6 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\bin\Debug\BuilderAndPrototypeDLL.dll
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\bin\Debug\BuilderAndPrototypeDLL.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\obj\Debug\BuilderAndPrototypeDLL.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\obj\Debug\BuilderAndPrototypeDLL.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\obj\Debug\BuilderAndPrototypeDLL.dll
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\BuilderAndPrototype_Patterns\BuilderAndPrototypePattern\BuilderAndPrototypeDLL\obj\Debug\BuilderAndPrototypeDLL.pdb
