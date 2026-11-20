@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FlyweightPattern/FlyweightPattern.csproj" />
+  <Project Path="FlyweightPatternDLL/FlyweightPatternDLL.csproj" />
+</Solution>

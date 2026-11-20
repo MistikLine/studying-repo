@@ -1,0 +1,13 @@
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.AssemblyReference.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.Properties.Resources.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.GenerateResource.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.Form1.resources
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPatternDLL.dll
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPatternDLL.pdb
+D:\коледж\4 курс - І семестр\КПЗ\Практичні роботи\Моя робота\Flyweight_Pattern\FlyweightPattern\FlyweightPattern\obj\Debug\Flyweigh.422EF291.Up2Date
